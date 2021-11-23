@@ -4,7 +4,7 @@ Denial of Service Bot made in golang that uses ghostbin or any other binsite as 
 Control all of your bots from one place
 ----------------------------------
 
-Usage --> go run <PROGPATH> <url>
+Usage --> go run PROGPATH url
   
 ----------------------------------
   
